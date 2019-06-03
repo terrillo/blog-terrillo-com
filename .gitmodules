@@ -1,0 +1,3 @@
+[submodule "themes/tachyons"]
+	path = themes/tachyons
+	url = git@github.com:terrillo/calligraphy-tachyons.git
